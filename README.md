@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kumar Abhinandan
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning NLP and AI
+- 🌱 I’m currently learning Apache Spark.
 - 📫 Reach me at abhinandansingh46@gmail.com
 
 <!---
